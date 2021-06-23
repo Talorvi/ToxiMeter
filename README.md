@@ -1,4 +1,10 @@
-# axios-test
+# Description
+Frontend of the ToxiMeter app created in Vue 2. <br />
+It utilizes axios for communication with backend.
+## Backend
+[ToxiMeter-BackEnd GitHub repository](https://github.com/Talorvi/ToxiMeter-BackEnd)
+
+# ToxiMeter npm commands
 
 ## Project setup
 ```
@@ -20,5 +26,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
