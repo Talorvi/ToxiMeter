@@ -4,6 +4,8 @@ It utilizes axios for communication with backend.
 
 ## [Demo](https://www.toxic.polarlooptheory.pl)
 
+![Website preview](https://i.imgur.com/7cAFmsk.png)
+
 ## Backend
 [ToxiMeter-BackEnd GitHub repository](https://github.com/Talorvi/ToxiMeter-BackEnd)
 
